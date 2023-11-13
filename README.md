@@ -7,7 +7,7 @@
 
 - 🔭I am exploring the field of software development using MERN stack
 
-- 💻 Currently working with Iencode tech as SDE intern 
+- 💻 Currently working with iEncode Tech as SDE intern 
 
 - 👯 I’m eager to collaborate on any project related to my tech stack
 
