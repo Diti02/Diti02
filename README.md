@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diti02&label=Profile%20views&color=0e75b6&style=flat" alt="diti02" /> </p>
 
-- 🌱 I’m currently learning **Express JS, MongoDB, ReactJS**
+- 🔭I am exploring the field of software development using MERN stack
 
-<h3 align="left">Connect with me:</h3>
+- 💻 Currently working with Iencode tech as SDE intern 
+
+- 👯 I’m eager to collaborate on any project related to my tech stack
+
+- 🌱 I’m currently learning Express JS, MongoDB, ReactJS
+
+
 <p align="left">
 </p>
 
