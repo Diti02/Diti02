@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
 
 <h1 align="center">Hi 👋, I'm Diti Banerjee</h1>
 <h3 align="center">I am a self learned full stack(MERN) Developer & a problem solver</h3>
