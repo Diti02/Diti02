@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diti02&label=Profile%20views&color=0e75b6&style=flat" alt="diti02" /> </p>
 
+-  💻I am currently working with BrackettUp as SDE intern
+
 - 🔭I am exploring the field of software development
 
 - 👯 I’m eager to collaborate on any project related to my tech stack
