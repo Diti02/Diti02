@@ -3,16 +3,26 @@
 <h3 align="center">I am a self learned full stack Developer & a problem solver</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diti02&label=Profile%20views&color=0e75b6&style=flat" alt="diti02" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=diti02&label=Profile%20views&color=0e75b6&style=flat" alt="diti02" />
+</p>
 
--  💻I am currently working with BrackettUp as SDE intern
+- 💻 **Final-year B.Tech CSE student** with **6 months of experience as an SDE intern at BrackettUp**
+- 🌟 **Driven by a passion for problem-solving**, I excel in crafting robust solutions using **Java**, **Spring Boot**, and the **MERN stack**
 
-- 🔭I am exploring the field of software development
+- 👯 **Open to collaborations** on impactful projects, especially in **backend systems**, **React Native applications**, and **full-stack development**.
 
-- 👯 I’m eager to collaborate on any project related to my tech stack
+- 🌱 **Actively exploring and working with**:
+  - **Backend**: Java, Spring Boot, Express.js  
+  - **Frontend**: React.js, React Native  
+  - **Database**: MySQL, MongoDB 
 
-- 🌱 I’m currently working on Java, SpringBoot, React JS, React Native, Express JS, MongoDB
-
+ <h2>🌟 What I Do</h2>
+    <ul>
+        <li><strong>Backend :</strong> Proficient in <strong>Java</strong>, with experience in <strong>Spring Boot</strong>, <strong>Spring JPA</strong>, and <strong>HATEOAS</strong> for creating robust APIs.</li>
+        <li><strong>Frontend :</strong> Skilled in <strong>React Native</strong> and <strong>React.js</strong>, designing intuitive, responsive interfaces.</li>
+        <li><strong>Database :</strong> Experienced with <strong>H2</strong>, <strong>MongoDB</strong>, and <strong>MySQL</strong> for managing and optimizing databases.</li>
+    </ul>
 
 <p align="left">
 </p>
@@ -36,3 +46,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diti02&show_icons=true&locale=en&layout=compact" alt="diti02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diti02&show_icons=true&locale=en" alt="diti02" /></p>
+<p>
+ <h2>🌱 Learning Goals</h2>
+    <ul>
+        <li>Exploring <strong>microservices architecture</strong> and advanced <strong>cloud technologies</strong>.</li>
+        <li>Enhancing skills in <strong>data engineering</strong> and <strong>system design</strong>.</li>
+    </ul>
+</p>
+<p>
+    <h2>🤝 Collaboration</h2>
+    <p>I’m <strong>eager to collaborate</strong> on any project related to my tech stack, including <strong>Java backend systems</strong>, <strong>React Native applications</strong>, or <strong>full-stack solutions</strong>. Let’s build something amazing together!</p></p>
+    <p>
+      <h2>💬 Let’s Connect</h2>
+    <p>Feel free to reach out via <a href="mailto:ditibanerjee006@example.com">email</a> </p>
+    </p>
